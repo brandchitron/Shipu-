@@ -11,8 +11,8 @@
         "exp": 10
       },
       "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
+        "coin": 5000,
+        "exp": 50
       }
     },
     "notification": {
